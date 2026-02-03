@@ -1,5 +1,5 @@
 # Certifications
- **Foundations of Business Intelligence** — Google  
+- **Foundations of Business Intelligence** — Google  
   Coursera | May 2025  
   🔗 [View Certificate](https://www.coursera.org/account/accomplishments/certificate/OV3DHY2S6NDJ)
 
